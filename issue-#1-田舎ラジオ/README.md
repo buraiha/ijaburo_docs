@@ -12,6 +12,8 @@
   - <https://youtu.be/JW4zbrZCOFA?si=FnExvMnJ62vj4N7l>
 - Spotify Podcast(音声のみ)
   - <https://podcasters.spotify.com/pod/show/inaburadio>
+  - RSSフィード
+    - <https://anchor.fm/s/fd795e20/podcast/rss>
 
 ## 資料のナンバリング
 
