@@ -9,14 +9,11 @@
 ## データホスティング
 
 - Youtube(動画付き)　※動画付きデータホスティング
-  - <https://youtu.be/JW4zbrZCOFA?si=FnExvMnJ62vj4N7l>
+  - <https://www.youtube.com/watch?v=qmJWNqtw4xc&list=PLJsEU8NkjZFMEdguHfRm1dMPY1bPyd-im>
 - Spotify Podcast(音声のみ)　※音声データホスティング
-  - <https://podcasters.spotify.com/pod/show/inaburadio>
-  - RSSフィード
-    - <https://anchor.fm/s/fd795e20/podcast/rss>
+  - <https://open.spotify.com/show/42UlWiUZwdNw66SYLYjwFq>
 - Apple Podcast
-  - <https://podcasts.apple.com/jp/podcast/%E3%81%84%E3%81%AA%E3%81%B6%E3%83%A9%E3%82%B8%E3%82%AA-%E4%BB%AE/id1779634750>>
-  - SpotifyのRSSフィードで連携(データ自体はSpotifyでホスティングしてる(たぶん))
+  - <https://podcasts.apple.com/jp/podcast/%E3%81%84%E3%81%AA%E3%81%B6%E3%83%A9%E3%82%B8%E3%82%AA-%E4%BB%AE/id1779634750>
 
 ## 資料のナンバリング
 
