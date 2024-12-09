@@ -15,6 +15,15 @@
 - Apple Podcast
   - <https://podcasts.apple.com/jp/podcast/%E3%81%84%E3%81%AA%E3%81%B6%E3%83%A9%E3%82%B8%E3%82%AA-%E4%BB%AE/id1779634750>
 
+## 他人に紹介用リンク
+
+- Youtube(動画付き)
+  - <https://www.youtube.com/watch?v=qmJWNqtw4xc&list=PLJsEU8NkjZFMEdguHfRm1dMPY1bPyd-im>
+- Spotify Podcast(音声のみ)
+  - <https://open.spotify.com/show/42UlWiUZwdNw66SYLYjwFq>
+- Apple Podcast(音声のみ)
+  - <https://podcasts.apple.com/jp/podcast/%E3%81%84%E3%81%AA%E3%81%B6%E3%83%A9%E3%82%B8%E3%82%AA-%E4%BB%AE/id1779634750>
+
 ## 資料のナンバリング
 
 4桁、10番飛ばしでナンバリングします。
