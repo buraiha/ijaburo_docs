@@ -1,6 +1,6 @@
 # 稲武JABUROプロジェクトについて
 
-プロジェクトHP: 準備中
+プロジェクトHP: <https://www.inabu-jaburo.jp>
 
 プロジェクト代表: 古橋　崇史
 
