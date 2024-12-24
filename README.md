@@ -95,12 +95,12 @@ issue候補の情報は、Issueに登録する前の、課題の概要、課題�
 issue-candidate
 └ deer_cooking(鹿の料理について)
   ├ images
-  │├ deer_cooking.jpg
-  │├ deer_cooking2.jpg
-  │└ deer_cooking3.jpg
+  │  ├ deer_cooking.jpg
+  │  ├ deer_cooking2.jpg
+  │  └ deer_cooking3.jpg
   ├ README.md
   ├ テキスト等の資料.md
-  ├ (必要であればディレクトリ分け)
+  ├ ...(必要であればディレクトリ分け)
 ```
 
 ## 本リポジトリを利用した課題解決フロー例
