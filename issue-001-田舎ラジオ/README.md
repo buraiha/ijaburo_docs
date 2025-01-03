@@ -1,5 +1,7 @@
 # 田舎ラジオについて
 
+対応Issue: <https://github.com/buraiha/ijaburo_docs/issues/1>
+
 ## 概要
 
 ラジオのタイトルが未定なので早く決めないといけませんね。
