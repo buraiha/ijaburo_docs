@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../knowledge-base"
 		}
 	],
 	"settings": {}
