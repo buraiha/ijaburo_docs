@@ -22,9 +22,9 @@
                                 <dt class="gw-report__archive-item-img"><a href="<?php the_permalink(); ?>"><span><?php the_post_thumbnail(); ?></span></a></dt>
                                 <dd class="gw-report__archive-item-date"><time><?php the_time('Y.m.d'); ?></time></dt>
                                 <dd class="gw-report__archive-item-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></dd>
-                                <?php $report_category_links = get_the_term_list(get_the_ID(), GW_TAXONOMY_NAME_REPORT, '<span>', '</span><span>', '</span>'); ?>
+                                <?php $report_category_links = get_the_term_list(get_the_ID(), GW_TAXONOMY_NAME_REPORT, '<span style="display: inline-block; border: 1px solid #828282; border-radius: 6px; padding: 6px 10px;">', '</span><span style="display: inline-block; border: 1px solid #828282; border-radius: 6px; padding: 6px 10px;">', '</span>'); ?>
                                 <?php if ($report_category_links && !is_wp_error($report_category_links)): ?>
-                                <dd class="gw-report__archive-item-category"><?php echo wp_kses_post($report_category_links); ?></dd>
+                                <dd class="gw-report__archive-item-category" style="display: flex; flex-wrap: wrap; gap: 8px; border: 0; padding: 0;"><?php echo wp_kses_post($report_category_links); ?></dd>
                                 <?php endif; ?>
                             </dl>
                         </li>

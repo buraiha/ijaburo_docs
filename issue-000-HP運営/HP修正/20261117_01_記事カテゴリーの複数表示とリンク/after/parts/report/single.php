@@ -9,9 +9,9 @@
                         <div class="gw-report__head-meta-date"><time><?php the_time('Y.m.d'); ?></time></div>
                     </div>
                     <h1 class="gw-report__head-title"><?php the_title(); ?></h1>
-                    <?php $report_category_links = get_the_term_list(get_the_ID(), GW_TAXONOMY_NAME_REPORT, '<span>', '</span><span>', '</span>'); ?>
+                    <?php $report_category_links = get_the_term_list(get_the_ID(), GW_TAXONOMY_NAME_REPORT, '<span style="display: inline-block; border: 1px solid #828282; border-radius: 6px; padding: 6px 10px;">', '</span><span style="display: inline-block; border: 1px solid #828282; border-radius: 6px; padding: 6px 10px;">', '</span>'); ?>
                     <?php if ($report_category_links && !is_wp_error($report_category_links)): ?>
-                    <div class="gw-report__head-meta-category"><?php echo wp_kses_post($report_category_links); ?></div>
+                    <div class="gw-report__head-meta-category" style="display: flex; flex-wrap: wrap; gap: 8px; border: 0; padding: 0;"><?php echo wp_kses_post($report_category_links); ?></div>
                     <?php endif; ?>
                     
                     <!--<ul class="gw-news__head-meta-sns">
