@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issue-001-田舎ラジオ/RADIO_HARNESS.md",
+                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RADIO_HARNESS"
+              "title": "202703_AIでラジオを作ることについて_収録ネタ"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "issue-001-田舎ラジオ/RADIO_HARNESS.md",
+                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "issue-001-田舎ラジオ/RADIO_HARNESS.md",
+                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "issue-001-田舎ラジオ/RADIO_HARNESS.md",
+                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,6 +201,18 @@
   },
   "active": "96c9c43c8c759265",
   "lastOpenFiles": [
+    "issue-001-田舎ラジオ/収録準備/20261218_アトリ特集_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/20270115_揚水発電特番_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/日付未定_亀甲苑特集_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/日付未定_元旦登山告知_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/20261127_次回番組_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/20261211_ほうらいせん吟醸工房特集_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/README.md",
+    "issue-001-田舎ラジオ/収録準備/202702_段戸川告知_収録ネタ.md",
+    "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
+    "issue-001-田舎ラジオ/RADIO_HARNESS.md",
+    "issue-001-田舎ラジオ/企画メモ/20261120_ハーネス残存トランザクション情報_洗い出し.md",
+    "issue-001-田舎ラジオ/収録準備",
     "issue-001-田舎ラジオ/企画メモ/20270115_揚水発電特番_企画メモ.md",
     "issue-001-田舎ラジオ/企画メモ/README.md",
     "issue-001-田舎ラジオ/企画メモ/20261120_番組の周知とYouTube改善_企画メモ.md",
@@ -227,18 +239,7 @@
     "issue-001-田舎ラジオ/店舗資料/おいでん・やな.md",
     "issue-001-田舎ラジオ/店舗資料/どんぐりの里いなぶ.md",
     "issue-001-田舎ラジオ/企画メモ/20261120_イベント追加候補_レビュー用.md",
-    "issue-001-田舎ラジオ/店舗資料/風の庭.md",
-    "issue-001-田舎ラジオ/店舗資料/段戸川倶楽部.md",
-    "issue-001-田舎ラジオ/店舗資料/古橋懐古館.md",
-    "issue-001-田舎ラジオ/店舗資料/亀甲苑.md",
-    "issue-001-田舎ラジオ/店舗資料/ニコ天.md",
-    "issue-001-田舎ラジオ/店舗資料/アウトドアガーデンいなぶ.md",
-    "issue-001-田舎ラジオ/店舗資料/どんぐり工房.md",
-    "issue-001-田舎ラジオ/店舗資料/どこでもいなぶ.md",
-    "issue-001-田舎ラジオ/店舗資料/つたや.md",
-    "issue-001-田舎ラジオ/店舗資料/README.md",
     "issue-001-田舎ラジオ/店舗資料",
-    "issue-001-田舎ラジオ/RADIO_HARNESS.md",
     "issue-001-田舎ラジオ/企画メモ"
   ]
 }
