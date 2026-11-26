@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
+                "file": "issue-001-田舎ラジオ/企画メモ/20261120_ボスの肉声とAIの掛け合い_企画メモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202703_AIでラジオを作ることについて_収録ネタ"
+              "title": "20261120_ボスの肉声とAIの掛け合い_企画メモ"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
+                "file": "issue-001-田舎ラジオ/企画メモ/20261120_ボスの肉声とAIの掛け合い_企画メモ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
+                "file": "issue-001-田舎ラジオ/企画メモ/20261120_ボスの肉声とAIの掛け合い_企画メモ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
+                "file": "issue-001-田舎ラジオ/企画メモ/20261120_ボスの肉声とAIの掛け合い_企画メモ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,6 +201,7 @@
   },
   "active": "96c9c43c8c759265",
   "lastOpenFiles": [
+    "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
     "issue-001-田舎ラジオ/収録準備/20261218_アトリ特集_収録ネタ.md",
     "issue-001-田舎ラジオ/収録準備/20270115_揚水発電特番_収録ネタ.md",
     "issue-001-田舎ラジオ/収録準備/日付未定_亀甲苑特集_収録ネタ.md",
@@ -209,7 +210,6 @@
     "issue-001-田舎ラジオ/収録準備/20261211_ほうらいせん吟醸工房特集_収録ネタ.md",
     "issue-001-田舎ラジオ/収録準備/README.md",
     "issue-001-田舎ラジオ/収録準備/202702_段戸川告知_収録ネタ.md",
-    "issue-001-田舎ラジオ/収録準備/202703_AIでラジオを作ることについて_収録ネタ.md",
     "issue-001-田舎ラジオ/RADIO_HARNESS.md",
     "issue-001-田舎ラジオ/企画メモ/20261120_ハーネス残存トランザクション情報_洗い出し.md",
     "issue-001-田舎ラジオ/収録準備",
