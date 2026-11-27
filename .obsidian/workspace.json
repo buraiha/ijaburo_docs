@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issue-001-田舎ラジオ/plots/20261120_訂正版_プロット.md",
+                "file": "issue-001-田舎ラジオ/plots/20261127_第0014回_プロット.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261120_訂正版_プロット"
+              "title": "20261127_第0014回_プロット"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "issue-001-田舎ラジオ/plots/20261120_訂正版_プロット.md",
+                "file": "issue-001-田舎ラジオ/plots/20261127_第0014回_プロット.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "issue-001-田舎ラジオ/plots/20261120_訂正版_プロット.md",
+                "file": "issue-001-田舎ラジオ/plots/20261127_第0014回_プロット.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "issue-001-田舎ラジオ/plots/20261120_訂正版_プロット.md",
+                "file": "issue-001-田舎ラジオ/plots/20261127_第0014回_プロット.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a170015865bb655",
+  "active": "96c9c43c8c759265",
   "lastOpenFiles": [
+    "issue-001-田舎ラジオ/収録準備/日付未定_献糸とにぎたえ特集_収録ネタ.md",
+    "issue-001-田舎ラジオ/plots/20261120_訂正版_プロット.md",
     "issue-001-田舎ラジオ/収録準備/2027春_風の庭営業再開前告知_収録ネタ.md",
     "issue-001-田舎ラジオ/plots/20261127_第0014回_プロット.md",
     "issue-001-田舎ラジオ/収録準備/20261127_次回番組_収録ネタ.md",
@@ -237,8 +240,6 @@
     "issue-001-田舎ラジオ/店舗資料/名倉川漁業協同組合.md",
     "issue-001-田舎ラジオ/店舗資料/中乃屋.md",
     "issue-001-田舎ラジオ/店舗資料/ほうらいせん吟醸工房.md",
-    "issue-001-田舎ラジオ/店舗資料/アトリ.md",
-    "issue-001-田舎ラジオ/店舗資料/おいでん・やな.md",
     "issue-001-田舎ラジオ/店舗資料",
     "issue-001-田舎ラジオ/企画メモ"
   ]
